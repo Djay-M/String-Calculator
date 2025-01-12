@@ -1,4 +1,3 @@
-const _ = require("lodash");
 const { calculateStringVal } = require("../utils/stringCalculator.helper");
 const APIError = require("../utils/APIErrors");
 
